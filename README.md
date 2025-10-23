@@ -1,0 +1,1 @@
+## This is an simple app that join Laravel for back-end and Reactjs for front-end
